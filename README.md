@@ -1,2 +1,2 @@
 # tv-script-generator
-Udacity Deep Learniing Project 4
+Udacity Deep Learning Project 4
